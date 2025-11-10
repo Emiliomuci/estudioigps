@@ -136,3 +136,28 @@ Foto xddddddddddd
 ---
 ***
 ___
+
+
+<dl>
+  <dt>Git</dt>
+  <dd>Sistema de control de versiones distribuido</dd>
+  
+  <dt>Markdown</dt>
+  <dd>Lenguaje de marcado ligero</dd>
+</dl>
+
+<dl>	Definition List	Contiene toda la lista de definiciones.
+<dt>	Definition Term	Es el término que se va a definir (como una palabra en un diccionario).
+<dd>	Definition Description	Es la descripción o definición del término anterior.
+
+\* No será un item de lista
+
+\# No será un encabezado
+
+\[No será un enlace\]
+
+
+<!-- Este es un comentario que no se verá -->
+
+:smile: 
+
