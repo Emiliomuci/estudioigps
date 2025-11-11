@@ -186,5 +186,10 @@ Ir al sitio [aqui](https://mermaid.live/edit#pako:eNptUEtOwzAQvcpo1kllOx8n3iGisi
 
 
 
+## Cuadrante gràfica
+
+Ir a la gràfica [aquí](https://mermaid.live/edit#pako:eNplj91ugzAMhV8l8jUgfgPkYlJ_nmJLLzzwgI4kXQgVXdV3H3RqhzRf-Xw-PpavUJmaQMDXiLVF7XYtWie161xPDPsKdUVSTz5O3cC2eDQP6PsvbNO7p2ZSX35dvzbSDTakSDv2tP4xqaV-nPQjtqd3sh0qMzCaTqjrzmozrCwxO1mjzJnsCibMEp2xH3FNU6boaOzCpK5QzXEtso1gb2GQeGHADyu8veM081gYxMn_SZYvE14ewIPGdjUIZ0fyQJFVuEi4Ss2YBNfOf0kQc1uj_ZQg9W3embNejVGPNWvGpgXxgf0wq_FUo6N9h41F9aSWdE12Z0btQMQZj-8pIK4wgYiSOMhSHhZRlsYlL_LMgwuINA2WPkyKKOVlHnN-8-D7fjgMijwt55oNSVHEEb_9AFOLoyM)
+
+
 
 
