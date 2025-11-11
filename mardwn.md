@@ -161,3 +161,30 @@ ___
 
 :smile: 
 
+
+## Mermaid
+
+```mermaid
+graph TD
+    A[Inicio] --> B{¿Decisión?}
+    B -->|Sí| C[Acción 1]
+    B -->|No| D[Acción 2]
+    C --> E[Fin]
+    D --> E
+```
+
+Mermeid, ejericio [aquì](https://mermaid.live/edit#pako:eNpFkEtvgzAQhP-KteqRROaVYKuK1EByrCo1pwYOVnDACtiRY9QH8N-7EDX1yfPtzI7lHk6mlMDh3JjPUy2sI4cs1-TluNPOitbciFNSl6Igi8Vm2-9uRKuLHNGyncjwrgaS9gfRNGKC6Qw3ER2y_s3KkzL_9BnpLteos7uO6dNA9sfUtNe5qiCP2SamA0HzflL30L3v1SA_7pUuJoiYgAeVVSVwZzvpQSttKyYJ_TTNwdWylTlwvJbCXnLI9YiZq9AfxrR_MWu6qgZ-Fs0NVXcthZOZEhU-7EEtfoS0qem0Ax6H8bwEeA9fwEMWLtcxXVOf0ShgK-bBN5rYMmB-sE6SkPm-H4ajBz9zK10maMcTRKtkxWI_Gn8B2QF43w)
+
+
+## Sequencia de diagrama con mermaid
+Ir [aquì](https://mermaid.live/edit#pako:eNplUDtvgzAQ_ivWzZBgIAQ8ZEipKnVo1cdUeXHBSVCCTc-21DTKf6-JCCmqb_F99z1Od4JK1xIYGPnlpKpk2YgtiparTqBtqqYTyhJnnMBGT8ENamVDqeop_Cmq_T-wXHPF1WBDwtVqFDOjD55lBamF1YarcdLTBjP2cP9O5qJr5gNpwHtKuWYvTuKxDyjXJPyjepXGHayoJ4pJ-OPb89Mk0k-HLVnrpLE47nUrQiCALTY1MItOBtBKbEXfwqmfcrA72UoOzH9rgXsOXJ29xp_iQ-v2KkPttjtgG3EwvnOdD7qef0TRbyXxTjtlgVGaZhcXYCf49n2-mC0X0ZIuaZZE-aJIAzh6OEtncUHjIorzJI4SGp8D-LkER7PcC_xL46TIsqig519O8K2_)
+
+--- 
+
+## Gantt en mermaid
+Ir al sitio [aqui](https://mermaid.live/edit#pako:eNptUEtOwzAQvcpo1kllOx8n3iGisip7UDajxqQRiV05DqJUPRRn4GI4TVtA4q3m8z72HHFrG40KWzLe1wYCfOd7DXfwMI-g6qh1NCyrhrxeWzeQB3gKiDebuKqW3ai3vrMG1jRq4LAMq27UX58WDtDokZyzfW9hgSIegWAiizmPWagT1tTmHy_x1-osFRHQi9cOiANcpPPmMWSQ795oiQBKrhkiFiwCnl2I1c9zAiu92SW_zGqDEbaua1B5N-kIBx2-Prd4nBk1-p0edI0qlA251xprcwqaPZlna4erzNmp3aF6oX4M3bSfr3g5623qtGm0u7eT8ai4lOnZBdUR31HJdJUXMuOZyApZlCyP8IBKlOVKSClZWeasTGR2ivDjHMtWgc0C0qQoRZnz_PQNFV-OOw)
+
+
+
+
+
