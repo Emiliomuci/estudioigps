@@ -190,6 +190,34 @@ Ir al sitio [aqui](https://mermaid.live/edit#pako:eNptUEtOwzAQvcpo1kllOx8n3iGisi
 
 Ir a la gràfica [aquí](https://mermaid.live/edit#pako:eNplj91ugzAMhV8l8jUgfgPkYlJ_nmJLLzzwgI4kXQgVXdV3H3RqhzRf-Xw-PpavUJmaQMDXiLVF7XYtWie161xPDPsKdUVSTz5O3cC2eDQP6PsvbNO7p2ZSX35dvzbSDTakSDv2tP4xqaV-nPQjtqd3sh0qMzCaTqjrzmozrCwxO1mjzJnsCibMEp2xH3FNU6boaOzCpK5QzXEtso1gb2GQeGHADyu8veM081gYxMn_SZYvE14ewIPGdjUIZ0fyQJFVuEi4Ss2YBNfOf0kQc1uj_ZQg9W3embNejVGPNWvGpgXxgf0wq_FUo6N9h41F9aSWdE12Z0btQMQZj-8pIK4wgYiSOMhSHhZRlsYlL_LMgwuINA2WPkyKKOVlHnN-8-D7fjgMijwt55oNSVHEEb_9AFOLoyM)
 
+## Grafica de Barras
+
+```mermaid
+xychart-beta
+    title "Beneficio en Ventas"
+    x-axis [ene, feb, mar, abr, may, jun, jul, ago, sep, oct, nov, dic]
+    y-axis "Beneficio (en €)" 4000 --> 11000
+    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+```
+
+<div align ="center">
+<h1>Titulo Centrado</h1>
+<td><img src="mardown.md/paisaje.jpg"></td>
+
+</div>
+<kbd>Ctrl</kbd> + <kbd>C</kbd> para copiar
+<sup>Superíndice</sup> y <sub>subíndice</sub>
+
+<mark>Texo subrayado</mark>
+
+<table>
+<tr>
+    <td>celda</td>
+        <td>awdwad</td>
+    <td>adada</td>
 
 
+</tr>
 
+</table>
