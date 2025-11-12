@@ -221,3 +221,7 @@ xychart-beta
 </tr>
 
 </table>
+
+
+## Practica de json
+ir [aquí](https://www.planttext.com/)

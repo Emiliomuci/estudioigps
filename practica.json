@@ -1,0 +1,47 @@
+
+@startjson
+  <style>
+  .h1 {
+    backgroundColor red
+  }
+  
+  </style>
+#highlight "id"
+#highlight "nombre" <<h1>>
+#highlight "preferencias" / "notificaciones" / "email"
+#highlight "preferencias" / "notificaciones" / "push" <<h1>>
+#highlight "preferencias" / "notificaciones" / "sms" <<h1>>
+
+{
+"id" : "usuario23",
+"nombre": "Marìa Garcìa",
+"email": "maria@gmail.com",
+"edad": 53,
+"activo": true,
+"roles" : ["usuario", "editor", "admin"],
+"preferencias": {
+  "tema": "oscuro",
+  "idioma": "es",
+  "notificaciones": {
+    "email": true,
+    "push": false,
+    "sms": false
+  }
+  
+},
+"direccion":{
+  "calle": "Calle Mayor",
+  "ciudad": "Madrid",
+  "Codigo Postal": 28001,
+  "pais": "España"
+},
+"estadística": {
+  "loginCount": 245,
+  "ultimoAcceso": "2025-10-27T10:30:00Z",
+  "ProyectoCreado": 12
+},
+"datos":[".",".","."]
+
+
+}
+@endjson
