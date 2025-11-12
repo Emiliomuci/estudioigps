@@ -1,0 +1,76 @@
+@startmindmap
+
+<style> 
+.lunes *{
+backgroundColor red
+}
+
+.martes *{
+backgroundColor blue
+
+}
+
+.miercoles *{
+backgroundColor yellow
+}
+
+.jueves * {
+backgroundColor green
+}
+.viernes *{
+backgroundColor grey
+}
+.sabado *{
+backgroundColor brown
+}
+
+</style>
+
+* Mi semana
+
+++ Lunes <<lunes>>
++++ Trabajo
+++++ Reunion en equipo
++++ Personal
+++++ Desarrollo feature
+++ Martes <<martes>>
++++ Trabajo
+++++ Reunion en equipo
+
++++ Personal
+++++ Desarrollo feature
+
+++ Miercoles <<miercoles>>
++++ Trabajo
+++++ Reunion en equipo
+
++++ Personal
+++++ Desarrollo feature
+
+-- Jueves <<jueves>>
+--- Trabajo
+---- Reunion en equipo
+
+--- Personal
+---- Desarrollo feature
+
+-- Viernes <<viernes>>
+--- Trabajo
+---- Reunion en equipo
+
+--- Personal
+---- Desarrollo feature
+
+-- Sabado <<brown>>
+--- Trabajo
+---- Reunion en equipo
+
+--- Personal
+---- Desarrollo feature
+
+
+
+
+
+
+@endmindmap
