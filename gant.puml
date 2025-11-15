@@ -42,7 +42,8 @@ Project starts 2025-11-01
 [Testing produccion] lasts 2 days and starts at [Deploy staging]'s end
 [Deployment proudction] happens at [Testing produccion]'s end
 
-
+[Finalizacion] happens at [Deployment proudction]'s end
+        
 
 
 @endgantt
