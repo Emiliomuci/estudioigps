@@ -1,7 +1,7 @@
 # Encabezado1 
 ## Indice
 
-- [Ir a imagenes](#imagenes)
+- [Imagenes](#imagenes)
 
 # Negritas
 __Hola__
@@ -14,7 +14,7 @@ ___hola___
 
 
 
-# Imagenes
+## Imagenes
 Ir a las imagenes [Aquí][1]
 
 [1]: https://www.planttext.com/
@@ -22,3 +22,17 @@ Ir a las imagenes [Aquí][1]
 
 Otras imagenes [otra](https://www.planttext.com/)
 
+![Imagenes](naruto.jpg)
+
+| Naruto | Saske | Sakura |
+| :-- | :--:| --: |
+| esfsfs | sfsfe | ffesfe |
+| adwada | adwada | fesfesf |
+
+git reset --soft 
+git reset --mixed
+git reset --hard awwdawdwada 
+ awdwaddwa 
+ wadwad
+ a dw 
+  w
