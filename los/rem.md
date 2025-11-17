@@ -31,4 +31,8 @@ Otras imagenes [otra](https://www.planttext.com/)
 
 git reset --soft 
 git reset --mixed
-git reset --hard
+git reset --hard awwdawdwada 
+ awdwaddwa 
+ wadwad
+ a dw 
+  w
