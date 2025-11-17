@@ -29,3 +29,6 @@ Otras imagenes [otra](https://www.planttext.com/)
 | esfsfs | sfsfe | ffesfe |
 | adwada | adwada | fesfesf |
 
+git reset --soft 
+git reset --mixed
+git reset --hard
